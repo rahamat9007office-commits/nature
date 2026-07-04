@@ -73,7 +73,7 @@ font-style: normal;
 font-weight: 400;
 font-style: Regular;
 font-size: 24px;
-leading-trim: NONE;
+
 line-height: 100%;
 letter-spacing: 0%;
 
@@ -224,7 +224,7 @@ background-color: #acacac05;
 border: 1px solid transparent;
 border-image: linear-gradient(to bottom, #ffffff, #000000) 1;
 border-radius: 10%;
-angle: 0 deg;
+
 opacity: 1;
 
 
